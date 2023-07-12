@@ -1,0 +1,97 @@
+Q1.// Is N an exact multiple of M?
+--------------------------------------------------------
+import java.io.*;
+import java.util.*;
+class UserMainCode
+{
+   public int isMultiple(int input1,int input2){
+   int val=0;
+     if(input1==0 || input2==0) val=3;
+     else if((input1% input2)!=0) val=1;
+     else val=2;
+     return val;
+  }
+}
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Q2.// Of given 5 numbers, how many are even?
+---------------------------------------------------------
+#include<stdio.h>
+#include<string.h>
+int countEvens(int input1,int input2,int input3,int input4,int input5)
+{
+   int cnt=0;
+   if(input * 1 < 0) input1=(-1)*input1;
+   if(input * 2 < 0) input2=(-1)*input2;
+   if (input * 3 < 0) input3=(-1)*input3;
+   if(input * 4 < 0) input4=(-1)*input4;
+   if(input * 5 < 0) input5=(-1)*input5;
+   if(input1%2==0) cnt++;
+   if(input2%2==0) cnt++;
+   if(input3%2==0) cnt++;
+   if(input4%2==0) cnt++;
+   if(input5%2==0) cnt++;   
+  return cnt;
+} 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Q3.//Of given 5 numbers, how many are odd?
+----------------------------------------------------------
+import java.io.*;
+import java.util.*;
+class UserMainCode
+public int countEvens(int input1,int input2,int input3, int input4,int input5)
+{
+   int cnt=0;
+    if(input1<0) input1=(-1)*input1;
+    if(input2<0) input2=(-1)*input2;
+    if(input3<0) input3=(-1)*input3;
+    if(input4<0) input4=(-1)*input4;
+    if(input5<0) input5=(-1)*input5;
+    if(input1%2!=0) cnt++;
+    if(input3%2!=0) cnt++;
+    if(input4%2!=0) cnt++;
+    if(input5%2!=0) cnt++;
+  return cnt;   
+  } 
+} 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Q4.// Of 5 numbers, how many are even or odd?
+------------------------------------------------------------
+import java.io.*;
+import java.util.*;
+class UserMainCode
+{
+public int countEvensOdds (int input1,int input2,int input3,int input4,int input5,Stringinput6){
+    int cnt=0;
+      if(input.equalsIgnoreCase("odd"))
+   {
+      if(input1<0) input1=(-1)*input1;
+      if(input2<0) input2=(-1)*input2;
+      if(input3<0) input3=(-1)*input3;
+      if(input4<0) input4=(-1)*input4;
+      if(input5<0) input5=(-1)*input5;
+      if(input1%2!=0) cnt++;
+      if(input2%2!=0) cnt++;
+      if(input3%2!=0) cnt++;
+      if(input4%2!=0) cnt++;
+      if(input5%2!=0) cnt++;
+  }
+    else if(input.equalsIgnoreCase("even"))
+   {
+    if(input1<0) input1=(-1)*input1;
+    if(input2<0) input2=(-1)*input2;
+    if(input3<0) input3=(-1)*input3;
+    if(input4<0) input4=(-1)*input4;
+    if(input5<0) input5=(-1)*input5;
+    if(input1%2==0) cnt++;
+    if(input2%2==0) cnt++;
+    if(input3%2==0) cnt++;
+    if(input4%2==0) cnt++;   
+    if(input5%2==0) cnt++;    
+    }    
+    return cnt;         
+  } 
+}
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
