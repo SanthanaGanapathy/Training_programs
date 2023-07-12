@@ -1,0 +1,36 @@
+# DAY-1 certificate
+
+[Santhana_Ganapathy.S_LP_Practice_isEven.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026177/Santhana_Ganapathy.S_LP_Practice_isEven.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_lastDigitOfN.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026183/Santhana_Ganapathy.S_LP_Practice_lastDigitOfN.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_2ndLastDigitOfN.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026185/Santhana_Ganapathy.S_LP_Practice_2ndLastDigitOfN.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_sumOfLastDigitsOf2Numbers.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026193/Santhana_Ganapathy.S_LP_Practice_sumOfLastDigitsOf2Numbers.pdf)
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# DAY-2 certificate
+
+[Santhana_Ganapathy.S_LP_Practice_isExactMultiple.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026205/Santhana_Ganapathy.S_LP_Practice_isExactMultiple.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEven.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026209/Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEven.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreOdd.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026211/Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreOdd.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026215/Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd.pdf)
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# DAY-3 certificate
+
+[Santhana_Ganapathy.S_LP_Practice_isPrime.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026223/Santhana_Ganapathy.S_LP_Practice_isPrime.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_nFactorial.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026226/Santhana_Ganapathy.S_LP_Practice_nFactorial.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_NthFibonacci.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026232/Santhana_Ganapathy.S_LP_Practice_NthFibonacci.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_NthPrime.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026233/Santhana_Ganapathy.S_LP_Practice_NthPrime.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd (1).pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026236/Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd.1.pdf)
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
+
