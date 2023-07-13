@@ -33,4 +33,11 @@ ________________________________________________________________________________
 
 [Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd (1).pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12026236/Santhana_Ganapathy.S_LP_Practice_Of5HowManyAreEvenOdd.1.pdf)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
+#DAY-4 certificate 
+
+[Santhana_Ganapathy.S_LP_Practice_NoOfPrimesInARange.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12035919/Santhana_Ganapathy.S_LP_Practice_NoOfPrimesInARange.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_AllDigitsCount.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12035922/Santhana_Ganapathy.S_LP_Practice_AllDigitsCount.pdf)
+
+
 
