@@ -1,0 +1,56 @@
+Q1.//digitSum : sum of all digits in N
+---------------------------------------------
+import java.util.*
+import java.io.*
+class UserMainCode 
+{    public int digitSum(int input1){     
+           boolean b=true;     
+           int r,sum=0;     
+           int x=input1,res=0;     
+           input1=Math.abs(input1);     
+           while(b){       
+              while(input1>0){         
+                    r=input1%10;         
+                    sum=sum+r;         
+                    input1=input1/10;       
+               }       if(sum<10){         
+                            b=false;       
+                       }       
+                       else{         input1=sum;         sum=0;       }     
+
+            }     if(x<0){ 
+                      res=-sum;     
+                   }     
+                   else{       res=sum;     }     
+            return res;   
+      } 
+}
+______________________________________________________________________________________________________________________________________________________________________
+Q2.//digitSum even: sum of even digits in N
+---------------------------------------------
+import java.util.*
+import java.io.*
+class UserMainCode
+{
+        public int isPalinNumPossible(int input1){
+        int r,sum=0;       
+          while(input1>0){         
+            r=input1%10;         
+            if(r%2==0){         
+            sum=sum+r;         }         
+            input1=input1/10;       
+          }            
+        return sum;
+        }
+}
+______________________________________________________________________________________________________________________________________________________________________
+Q3.//digitSum odd: sum of odd digits in N
+-----------------------------------------------------
+import java.util.*
+import java.io.*
+class UserMainCode
+{
+      
+
+
+
