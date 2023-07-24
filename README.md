@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 [Santhana_Ganapathy.S_LP_Practice_digitSum.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12052304/Santhana_Ganapathy.S_LP_Practice_digitSum.pdf)
 
-[Santhana_Ganapathy.S_LP_Practice_digitSumEven.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12052305/Santhana_Ganapathy.S_LP_Practice_digitSumEven.pdf)\
+[Santhana_Ganapathy.S_LP_Practice_digitSumEven.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12052305/Santhana_Ganapathy.S_LP_Practice_digitSumEven.pdf)
 
 [Santhana_Ganapathy.S_LP_Practice_digitSumOdd.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12052306/Santhana_Ganapathy.S_LP_Practice_digitSumOdd.pdf)
 ____________________________________________________________________________________________________________________________________________________________________
