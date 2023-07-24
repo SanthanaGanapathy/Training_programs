@@ -1,7 +1,7 @@
 Q1.//digitSum : sum of all digits in N
 ---------------------------------------------
-import java.util.*
-import java.io.*
+import java.util.*;
+import java.io.*;
 class UserMainCode 
 {    public int digitSum(int input1){     
            boolean b=true;     
@@ -29,8 +29,8 @@ ________________________________________________________________________________
 
 Q2.//digitSum even: sum of even digits in N
 ---------------------------------------------
-import java.util.*
-import java.io.*
+import java.util.*;
+import java.io.*;
 class UserMainCode
 {
         public int EvenDigitsSum(int input1)(int input1){
@@ -48,8 +48,8 @@ ________________________________________________________________________________
 
 Q3.//digitSum odd: sum of odd digits in N
 -----------------------------------------------------
-import java.util.*
-import java.io.*
+import java.util.*;
+import java.io.*;
 class UserMainCode
 {
       public int OddDigitsSum(int input1){
