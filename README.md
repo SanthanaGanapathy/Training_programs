@@ -120,6 +120,11 @@ ________________________________________________________________________________
 
 # DAY-13 certificate
 
+[Santhana_Ganapathy.S_LP_Practice_NambiarNumberGenerator.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12169734/Santhana_Ganapathy.S_LP_Practice_NambiarNumberGenerator.pdf)
+
+[Santhana_Ganapathy.S_LP_Practice_MsgControlledRobot.pdf](https://github.com/SanthanaGanapathy/Training_programs/files/12170031/Santhana_Ganapathy.S_LP_Practice_MsgControlledRobot.pdf)
+__________________________________________________________________________________________________________________________________________________________________
+
 
 
 
